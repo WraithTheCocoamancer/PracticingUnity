@@ -62,7 +62,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Movement Target.cs" />
+    <Compile Include="Assets\Scripts\chaser.cs" />
+    <Compile Include="Assets\Scripts\target.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/mhill9/Documents/GitHub/PracticingUnity/playing with Vectors/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
