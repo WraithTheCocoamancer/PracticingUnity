@@ -1,1 +1,5 @@
-sceneSetups: []
+sceneSetups:
+- path: C:/Users/mhill9/Documents/GitHub/GCD-2019-20/Avian Avoidance/Assets/Scenes/AvianAvoidance.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
